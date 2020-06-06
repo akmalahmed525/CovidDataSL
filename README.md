@@ -1,5 +1,7 @@
 # Covid Data SL
 
+![RN CI](https://github.com/akmalahmed525/CovidDataSL/workflows/RN%20CI/badge.svg)
+
 ![App Icon](assets/images/icon.png)
 
 ## A simple application to visualize Covid-19 data
