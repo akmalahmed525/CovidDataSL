@@ -1,10 +1,14 @@
 # Covid Data SL
 
+![App Icon](assets/images/icon.png)
+
 ## A simple application to visualize Covid-19 data
 
 ***
 
 ## Setup Procedure
+
+Follow the React Native CLI [environment setup](https://reactnative.dev/docs/environment-setup)
 
 ### 1. Increase the amount of `inotify` watchers via the command below
 
@@ -56,3 +60,29 @@
 ```
 
 > Note: The command install the development version of the app in the connected device.
+
+### Screenshots
+
+<table>
+  <tr>
+    <td valign="top"><img src="screenshots/1.png"></td>
+    <td valign="top"><img src="screenshots/2.png"></td>
+    <td valign="top"><img src="screenshots/3.png"></td>
+    <td valign="top"><img src="screenshots/4.png"></td>
+    <td valign="top"><img src="screenshots/5.png"></td>
+  </tr>
+ </table>
+
+<!-- 
+
+![Screenshot 1](screenshots/1.png)
+
+![Screenshot 2](screenshots/2.png)
+
+![Screenshot 3](screenshots/3.png)
+
+![Screenshot 4](screenshots/4.png)
+
+![Screenshot 5](screenshots/5.png)
+
+ -->
