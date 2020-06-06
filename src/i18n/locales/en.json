@@ -1,0 +1,44 @@
+{
+  "about": {
+    "title": "Covid-19 Data Visualization Application",
+    "description": "An open source React Native application developed to interact with Covid-19 data API of Sri Lankan Health Promotion Bureau",
+    "get_code": "Get the source code"
+  },
+  "icons": {
+    "current_data": "Current Data",
+    "pcr_data": "PCR Data",
+    "hospitals": "Hospitals",
+    "about": "About"
+  },
+  "pcr_test": {
+    "daily_pcr_testing_data": "Daily PCR (Polymerase Chain Reaction) Tests",
+    "total_pcr_data": "Total number of PCR tests conducted until\n{{placeholder}}"
+  },
+  "current_data": {
+    "local_new_cases": "Local new cases",
+    "local_total_cases": "Local total cases",
+    "local_total_number_of_individuals_in_hospitals": "Total individuals in hospitals",
+    "local_deaths": "Local deaths",
+    "local_recovered": "Local recovered",
+    "local_new_deaths": "Local new deaths",
+    "local_active_cases": "Local active cases",
+    "global_new_cases": "Global new cases",
+    "global_total_cases": "Global total cases",
+    "global_deaths": "Global deaths",
+    "global_new_deaths": "Global new deaths",
+    "global_recovered": "Global recovered"
+  },
+  "placeholders": {
+    "title": "Sri Lanka Covid-19 Data Visualization",
+    "fetching": "Fetching data from server",
+    "no_connection": "Oops, Check your connection",
+    "failed_to_reach_server": "Failed to reach server",
+    "data_fetch_info": "The below Covid-19 data has been retrieved from the official Sri Lanka Health Promotion Bureau API",
+    "local_covid_cases": "Local Covid-19 cases last updated at:\n{{placeholder}}",
+    "global_covid_cases": "Global Covid-19 cases last updated at:\n{{placeholder}}",
+    "hospital_data": "Covid-19 treating hospital's",
+    "local_patients": "Total number of local patients {{placeholder}}",
+    "foreign_patients": "Total number of foreign patients {{placeholder}}",
+    "cumulative_total": "Cumulative number of patients {{placeholder}}"
+  }
+}

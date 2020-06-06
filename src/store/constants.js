@@ -1,0 +1,6 @@
+// @flow
+export const FETCH_DATA = 'FETCH_DATA';
+export const POPULATE_DATA = 'POPULATE_DATA';
+
+export const ON_API_REQUEST_SUCCESS = 'ON_API_REQUEST_SUCCESS';
+export const ON_API_REQUEST_FAILED = 'ON_API_REQUEST_FAILED';

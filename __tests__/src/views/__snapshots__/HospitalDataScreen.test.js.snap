@@ -1,0 +1,215 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hospital data screen Must match the snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "padding": 24,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 28,
+            "fontWeight": "400",
+            "letterSpacing": 0.355469,
+            "lineHeight": 34,
+          },
+          Object {
+            "fontFamily": "Rubik-Regular",
+            "textAlign": "center",
+          },
+        ]
+      }
+    >
+      Covid-19 treating hospital's
+    </Text>
+  </View>
+  <RCTScrollView
+    data={
+      Array [
+        Object {
+          "created_at": "2020-06-04 13:49:42",
+          "cumulative_foreign": 75,
+          "cumulative_local": 943,
+          "cumulative_total": 1018,
+          "deleted_at": null,
+          "hospital": Object {
+            "created_at": "2020-04-11 08:45:06",
+            "deleted_at": null,
+            "id": 1,
+            "name": "National Institute of Infectious Diseases",
+            "name_si": "බෝවන රෝග පිළිබඳ ජාතික ආයතනය",
+            "name_ta": "தேசிய தொற்று நோயியல் நிறுவனம்",
+            "updated_at": "2020-04-11 08:45:06",
+          },
+          "hospital_id": 1,
+          "id": 1,
+          "treatment_foreign": 0,
+          "treatment_local": 2,
+          "treatment_total": 2,
+          "updated_at": null,
+        },
+      ]
+    }
+    disableVirtualization={false}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    onContentSizeChange={[Function]}
+    onEndReachedThreshold={2}
+    onLayout={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    stickyHeaderIndices={Array []}
+    updateCellsBatchingPeriod={50}
+    viewabilityConfigCallbackPairs={Array []}
+    windowSize={21}
+  >
+    <View>
+      <View
+        onLayout={[Function]}
+        style={null}
+      >
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "backgroundColor": "#FFFFFF",
+              "borderRadius": 24,
+              "elevation": 5,
+              "flexDirection": "column",
+              "margin": 24,
+              "opacity": 1,
+              "padding": 24,
+              "shadowColor": "#000000",
+              "shadowOffset": Object {
+                "height": 2,
+                "width": 0,
+              },
+              "shadowOpacity": 0.25,
+              "shadowRadius": 3.84,
+            }
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                  "color": "#000000",
+                  "fontFamily": "System",
+                  "fontSize": 17,
+                  "fontWeight": "400",
+                  "letterSpacing": -0.408,
+                  "lineHeight": 22,
+                },
+                Object {
+                  "fontFamily": "Rubik-Regular",
+                  "textAlign": "left",
+                },
+              ]
+            }
+          >
+            National Institute of Infectious Diseases
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                  "color": "#000000",
+                  "fontFamily": "System",
+                  "fontSize": 13,
+                  "fontWeight": "400",
+                  "letterSpacing": -0.078,
+                  "lineHeight": 18,
+                },
+                Object {
+                  "fontFamily": "Rubik-Light",
+                  "textAlign": "left",
+                },
+              ]
+            }
+          >
+            Total number of local patients 943
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                  "color": "#000000",
+                  "fontFamily": "System",
+                  "fontSize": 13,
+                  "fontWeight": "400",
+                  "letterSpacing": -0.078,
+                  "lineHeight": 18,
+                },
+                Object {
+                  "fontFamily": "Rubik-Light",
+                  "textAlign": "left",
+                },
+              ]
+            }
+          >
+            Total number of foreign patients 75
+          </Text>
+          <Text
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                  "color": "#000000",
+                  "fontFamily": "System",
+                  "fontSize": 13,
+                  "fontWeight": "400",
+                  "letterSpacing": -0.078,
+                  "lineHeight": 18,
+                },
+                Object {
+                  "fontFamily": "Rubik-Light",
+                  "textAlign": "left",
+                },
+              ]
+            }
+          >
+            Cumulative number of patients 1018
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;

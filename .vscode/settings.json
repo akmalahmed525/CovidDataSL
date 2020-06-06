@@ -1,0 +1,9 @@
+{
+    "javascript.validate.enable": false,
+    "flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
+    "eslint.options": {
+        "configFile": "${workspaceFolder}/.eslintrc.js"
+    },
+    "editor.formatOnSave": true,
+    "prettier.configPath": "${workspaceFolder}/.prettierrc.js"
+}

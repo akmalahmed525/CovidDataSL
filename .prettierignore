@@ -1,0 +1,7 @@
+# package.json/lock files
+package.json
+package-lock.json
+yarn.lock
+
+# Node modules folder
+node_modules

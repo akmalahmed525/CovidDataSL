@@ -1,0 +1,33 @@
+pids
+*.pid
+*.seed
+
+# Jest Coverage directory
+coverage
+
+# node-waf configuration
+.lock-wscript
+
+build/Release
+.eslintcache
+node_modules
+
+# OSX
+.DS_Store
+
+# flow-typed
+flow-typed/npm/*
+!flow-typed/npm/module_vx.x.x.js
+
+# App packaged
+release
+build
+
+.idea
+npm-debug.log.*
+__snapshots__
+
+# Package.json
+package.json
+.travis.yml
+.gitlab-ci.yml

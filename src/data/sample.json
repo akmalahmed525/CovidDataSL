@@ -1,0 +1,1244 @@
+{
+  "success": true,
+  "message": "Success",
+  "data": {
+    "update_date_time": "2020-06-04 16:26:12",
+    "local_new_cases": 40,
+    "local_total_cases": 1789,
+    "local_total_number_of_individuals_in_hospitals": 56,
+    "local_deaths": 11,
+    "local_new_deaths": 0,
+    "local_recovered": 839,
+    "local_active_cases": 939,
+    "global_new_cases": 121413,
+    "global_total_cases": 6585656,
+    "global_deaths": 388247,
+    "global_new_deaths": 4929,
+    "global_recovered": 3181132,
+    "total_pcr_testing_count": 70290,
+    "daily_pcr_testing_data": [
+      {
+        "date": "2020-02-18",
+        "count": "1"
+      },
+      {
+        "date": "2020-02-19",
+        "count": "0"
+      },
+      {
+        "date": "2020-02-20",
+        "count": "1"
+      },
+      {
+        "date": "2020-02-21",
+        "count": "0"
+      },
+      {
+        "date": "2020-02-22",
+        "count": "0"
+      },
+      {
+        "date": "2020-02-23",
+        "count": "0"
+      },
+      {
+        "date": "2020-02-24",
+        "count": "0"
+      },
+      {
+        "date": "2020-02-25",
+        "count": "0"
+      },
+      {
+        "date": "2020-02-26",
+        "count": "2"
+      },
+      {
+        "date": "2020-02-27",
+        "count": "2"
+      },
+      {
+        "date": "2020-02-28",
+        "count": "5"
+      },
+      {
+        "date": "2020-02-29",
+        "count": "3"
+      },
+      {
+        "date": "2020-03-01",
+        "count": "1"
+      },
+      {
+        "date": "2020-03-02",
+        "count": "10"
+      },
+      {
+        "date": "2020-03-03",
+        "count": "6"
+      },
+      {
+        "date": "2020-03-04",
+        "count": "9"
+      },
+      {
+        "date": "2020-03-05",
+        "count": "1"
+      },
+      {
+        "date": "2020-03-06",
+        "count": "4"
+      },
+      {
+        "date": "2020-03-07",
+        "count": "7"
+      },
+      {
+        "date": "2020-03-08",
+        "count": "3"
+      },
+      {
+        "date": "2020-03-09",
+        "count": "1"
+      },
+      {
+        "date": "2020-03-10",
+        "count": "12"
+      },
+      {
+        "date": "2020-03-11",
+        "count": "10"
+      },
+      {
+        "date": "2020-03-12",
+        "count": "17"
+      },
+      {
+        "date": "2020-03-13",
+        "count": "25"
+      },
+      {
+        "date": "2020-03-14",
+        "count": "88"
+      },
+      {
+        "date": "2020-03-15",
+        "count": "65"
+      },
+      {
+        "date": "2020-03-16",
+        "count": "89"
+      },
+      {
+        "date": "2020-03-17",
+        "count": "151"
+      },
+      {
+        "date": "2020-03-18",
+        "count": "108"
+      },
+      {
+        "date": "2020-03-19",
+        "count": "162"
+      },
+      {
+        "date": "2020-03-20",
+        "count": "119"
+      },
+      {
+        "date": "2020-03-21",
+        "count": "149"
+      },
+      {
+        "date": "2020-03-22",
+        "count": "174"
+      },
+      {
+        "date": "2020-03-23",
+        "count": "143"
+      },
+      {
+        "date": "2020-03-24",
+        "count": "164"
+      },
+      {
+        "date": "2020-03-25",
+        "count": "128"
+      },
+      {
+        "date": "2020-03-26",
+        "count": "131"
+      },
+      {
+        "date": "2020-03-27",
+        "count": "152"
+      },
+      {
+        "date": "2020-03-28",
+        "count": "108"
+      },
+      {
+        "date": "2020-03-29",
+        "count": "136"
+      },
+      {
+        "date": "2020-03-30",
+        "count": "155"
+      },
+      {
+        "date": "2020-03-31",
+        "count": "224"
+      },
+      {
+        "date": "2020-04-01",
+        "count": "219"
+      },
+      {
+        "date": "2020-04-02",
+        "count": "250"
+      },
+      {
+        "date": "2020-04-03",
+        "count": "311"
+      },
+      {
+        "date": "2020-04-04",
+        "count": "295"
+      },
+      {
+        "date": "2020-04-05",
+        "count": "324"
+      },
+      {
+        "date": "2020-04-06",
+        "count": "394"
+      },
+      {
+        "date": "2020-04-07",
+        "count": "353"
+      },
+      {
+        "date": "2020-04-08",
+        "count": "376"
+      },
+      {
+        "date": "2020-04-09",
+        "count": "287"
+      },
+      {
+        "date": "2020-04-10",
+        "count": "397"
+      },
+      {
+        "date": "2020-04-11",
+        "count": "393"
+      },
+      {
+        "date": "2020-04-12",
+        "count": "609"
+      },
+      {
+        "date": "2020-04-13",
+        "count": "431"
+      },
+      {
+        "date": "2020-04-14",
+        "count": "342"
+      },
+      {
+        "date": "2020-04-15",
+        "count": "465"
+      },
+      {
+        "date": "2020-04-16",
+        "count": "548"
+      },
+      {
+        "date": "2020-04-17",
+        "count": "710"
+      },
+      {
+        "date": "2020-04-18",
+        "count": "522"
+      },
+      {
+        "date": "2020-04-19",
+        "count": "702"
+      },
+      {
+        "date": "2020-04-20",
+        "count": "642"
+      },
+      {
+        "date": "2020-04-21",
+        "count": "650"
+      },
+      {
+        "date": "2020-04-22",
+        "count": "774"
+      },
+      {
+        "date": "2020-04-23",
+        "count": "1141"
+      },
+      {
+        "date": "2020-04-24",
+        "count": "876"
+      },
+      {
+        "date": "2020-04-25",
+        "count": "816"
+      },
+      {
+        "date": "2020-04-26",
+        "count": "1075"
+      },
+      {
+        "date": "2020-04-27",
+        "count": "1869"
+      },
+      {
+        "date": "2020-04-28",
+        "count": "1139"
+      },
+      {
+        "date": "2020-04-29",
+        "count": "1545"
+      },
+      {
+        "date": "2020-04-30",
+        "count": "1397"
+      },
+      {
+        "date": "2020-05-01",
+        "count": "1107"
+      },
+      {
+        "date": "2020-05-02",
+        "count": "1681"
+      },
+      {
+        "date": "2020-05-03",
+        "count": "1636"
+      },
+      {
+        "date": "2020-05-04",
+        "count": "1045"
+      },
+      {
+        "date": "2020-05-05",
+        "count": "1491"
+      },
+      {
+        "date": "2020-05-06",
+        "count": "1147"
+      },
+      {
+        "date": "2020-05-07",
+        "count": "1553"
+      },
+      {
+        "date": "2020-05-08",
+        "count": "1821"
+      },
+      {
+        "date": "2020-05-09",
+        "count": "1424"
+      },
+      {
+        "date": "2020-05-10",
+        "count": "1282"
+      },
+      {
+        "date": "2020-05-11",
+        "count": "1057"
+      },
+      {
+        "date": "2020-05-12",
+        "count": "1078"
+      },
+      {
+        "date": "2020-05-13",
+        "count": "889"
+      },
+      {
+        "date": "2020-05-14",
+        "count": "1489"
+      },
+      {
+        "date": "2020-05-15",
+        "count": "938"
+      },
+      {
+        "date": "2020-05-16",
+        "count": "1081"
+      },
+      {
+        "date": "2020-05-17",
+        "count": "1254"
+      },
+      {
+        "date": "2020-05-18",
+        "count": "960"
+      },
+      {
+        "date": "2020-05-19",
+        "count": "1062"
+      },
+      {
+        "date": "2020-05-20",
+        "count": "1108"
+      },
+      {
+        "date": "2020-05-21",
+        "count": "1603"
+      },
+      {
+        "date": "2020-05-22",
+        "count": "1970"
+      },
+      {
+        "date": "2020-05-23",
+        "count": "1998"
+      },
+      {
+        "date": "2020-05-24",
+        "count": "1742"
+      },
+      {
+        "date": "2020-05-25",
+        "count": "1347"
+      },
+      {
+        "date": "2020-05-26",
+        "count": "1146"
+      },
+      {
+        "date": "2020-05-27",
+        "count": "1838"
+      },
+      {
+        "date": "2020-05-28",
+        "count": "1713"
+      },
+      {
+        "date": "2020-05-29",
+        "count": "1330"
+      },
+      {
+        "date": "2020-05-30",
+        "count": "1727"
+      },
+      {
+        "date": "2020-05-31",
+        "count": "1420"
+      },
+      {
+        "date": "2020-06-01",
+        "count": "1066"
+      },
+      {
+        "date": "2020-06-02",
+        "count": "1783"
+      },
+      {
+        "date": "2020-06-03",
+        "count": "2086"
+      }
+    ],
+    "hospital_data": [
+      {
+        "id": 1,
+        "hospital_id": 1,
+        "cumulative_local": 943,
+        "cumulative_foreign": 75,
+        "treatment_local": 2,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 1018,
+        "treatment_total": 2,
+        "hospital": {
+          "id": 1,
+          "name": "National Institute of Infectious Diseases",
+          "name_si": "\u0db6\u0ddd\u0dc0\u0db1 \u0dbb\u0ddd\u0d9c \u0db4\u0dd2\u0dc5\u0dd2\u0db6\u0db3 \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0d86\u0dba\u0dad\u0db1\u0dba",
+          "name_ta": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0ba4\u0bca\u0bb1\u0bcd\u0bb1\u0bc1 \u0ba8\u0bcb\u0baf\u0bbf\u0baf\u0bb2\u0bcd \u0ba8\u0bbf\u0bb1\u0bc1\u0bb5\u0ba9\u0bae\u0bcd",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 2,
+        "hospital_id": 2,
+        "cumulative_local": 785,
+        "cumulative_foreign": 13,
+        "treatment_local": 4,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 798,
+        "treatment_total": 4,
+        "hospital": {
+          "id": 2,
+          "name": "National Hospital Sri Lanka",
+          "name_si": "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd",
+          "name_ta": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 3,
+        "hospital_id": 3,
+        "cumulative_local": 951,
+        "cumulative_foreign": 5,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 956,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 3,
+          "name": "TH - Ragama",
+          "name_si": "\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dbb\u0dcf\u0d9c\u0db8",
+          "name_ta": "\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb0\u0bbe\u0b95\u0bae",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 4,
+        "hospital_id": 4,
+        "cumulative_local": 342,
+        "cumulative_foreign": 20,
+        "treatment_local": 3,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 362,
+        "treatment_total": 3,
+        "hospital": {
+          "id": 4,
+          "name": "TH - Karapitiya",
+          "name_si": "\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dbb\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+          "name_ta": "\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bb0\u0bbe\u0baa\u0bbf\u0b9f\u0bbf\u0baf",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 5,
+        "hospital_id": 5,
+        "cumulative_local": 878,
+        "cumulative_foreign": 2,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 880,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 5,
+          "name": "TH - Anuradhapura",
+          "name_si": "\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb",
+          "name_ta": "\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b85\u0ba9\u0bc1\u0bb0\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 6,
+        "hospital_id": 6,
+        "cumulative_local": 538,
+        "cumulative_foreign": 1,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 539,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 6,
+          "name": "TH - Kurunegala",
+          "name_si": "\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0d9c\u0dbd",
+          "name_ta": "\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bcd",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 7,
+        "hospital_id": 7,
+        "cumulative_local": 125,
+        "cumulative_foreign": 2,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 127,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 7,
+          "name": "TH- Jaffna",
+          "name_si": "\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dba\u0dcf\u0db4\u0db1\u0dba",
+          "name_ta": "\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 8,
+        "hospital_id": 8,
+        "cumulative_local": 227,
+        "cumulative_foreign": 6,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 233,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 8,
+          "name": "National Hospital Kandy",
+          "name_si": "\u0da2\u0dcf\u0dad\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb",
+          "name_ta": "\u0ba4\u0bc7\u0b9a\u0bbf\u0baf \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bbf",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 9,
+        "hospital_id": 9,
+        "cumulative_local": 189,
+        "cumulative_foreign": 0,
+        "treatment_local": 2,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 189,
+        "treatment_total": 2,
+        "hospital": {
+          "id": 9,
+          "name": "TH \u2013 Batticaloa",
+          "name_si": "\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0da9\u0d9a\u0dbd\u0db4\u0dd4\u0dc0",
+          "name_ta": "\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 10,
+        "hospital_id": 10,
+        "cumulative_local": 375,
+        "cumulative_foreign": 4,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 379,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 10,
+          "name": "DGH- Gampaha",
+          "name_si": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9c\u0db8\u0dca\u0db4\u0dc4",
+          "name_ta": "\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 11,
+        "hospital_id": 11,
+        "cumulative_local": 851,
+        "cumulative_foreign": 13,
+        "treatment_local": 8,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 864,
+        "treatment_total": 8,
+        "hospital": {
+          "id": 11,
+          "name": "DGH \u2013 Negombo",
+          "name_si": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dd3\u0d9c\u0db8\u0dd4\u0dc0",
+          "name_ta": "\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0ba8\u0bc0\u0bb0\u0bcd \u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 12,
+        "hospital_id": 12,
+        "cumulative_local": 369,
+        "cumulative_foreign": 0,
+        "treatment_local": 3,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 369,
+        "treatment_total": 3,
+        "hospital": {
+          "id": 12,
+          "name": "TH \u2013 Rathnapura",
+          "name_si": "\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb",
+          "name_ta": "\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bbf",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 13,
+        "hospital_id": 13,
+        "cumulative_local": 79,
+        "cumulative_foreign": 1,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 80,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 13,
+          "name": "PGH \u2013 Badulla",
+          "name_si": "\u0db4\u0dc5\u0dcf\u0dad\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd",
+          "name_ta": "\u0bae\u0bbe\u0b95\u0bbe\u0ba9 \u0b85\u0bb0\u0b9a \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baa\u0ba4\u0bc1\u0bb3\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 14,
+        "hospital_id": 14,
+        "cumulative_local": 83,
+        "cumulative_foreign": 0,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 83,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 14,
+          "name": "LRH",
+          "name_si": "\u0dbb\u0dd2\u0da2\u0dca\u0dc0\u0dda \u0d86\u0dbb\u0dca\u0dba\u0dcf \u0dc5\u0db8\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd",
+          "name_ta": "\u0bb2\u0bc7\u0b9f\u0bbf \u0bb0\u0bbf\u0b9f\u0bcd\u0b9c\u0bcd\u0bb5\u0bc7 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 15,
+        "hospital_id": 15,
+        "cumulative_local": 152,
+        "cumulative_foreign": 1,
+        "treatment_local": 2,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 153,
+        "treatment_total": 2,
+        "hospital": {
+          "id": 15,
+          "name": "DMH",
+          "name_si": "\u0da9\u0dd2 \u0dc3\u0ddc\u0dba\u0dd2\u0dc3\u0dcf \u0d9a\u0dcf\u0db1\u0dca\u0dad\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd",
+          "name_ta": "\u0b9f\u0bbf \u0b9a\u0bcb\u0baf\u0bcd\u0b9a\u0bbe \u0bae\u0b95\u0baa\u0bcd\u0baa\u0bc7\u0bb1\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 16,
+        "hospital_id": 16,
+        "cumulative_local": 302,
+        "cumulative_foreign": 6,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 308,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 16,
+          "name": "DGH \u2013 Polonnaruwa",
+          "name_si": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db4\u0ddc\u0dbd\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0",
+          "name_ta": "\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0baa\u0bca\u0bb2\u0ba9\u0bcd\u0ba9\u0bb1\u0bc1\u0bb5\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 17,
+        "hospital_id": 17,
+        "cumulative_local": 295,
+        "cumulative_foreign": 5,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 300,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 17,
+          "name": "TH - Kalubowila",
+          "name_si": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dbd\u0dd4\u0db6\u0ddd\u0dc0\u0dd2\u0dbd",
+          "name_ta": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 18,
+        "hospital_id": 18,
+        "cumulative_local": 212,
+        "cumulative_foreign": 0,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 212,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 18,
+          "name": "Castle Street Teaching Hospital",
+          "name_si": "\u0d9a\u0dcf\u0dc3\u0dbd\u0dca \u0dc0\u0dd3\u0daf\u0dd2\u0dba\u0dda \u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd",
+          "name_ta": "\u0b95\u0bbe\u0b9a\u0bb2\u0bcd \u0bb5\u0bc0\u0ba4\u0bbf \u0bae\u0b95\u0bb3\u0bbf\u0bb0\u0bcd \u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bae\u0bb0\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bae\u0ba9\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 19,
+        "hospital_id": 19,
+        "cumulative_local": 363,
+        "cumulative_foreign": 2,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 365,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 19,
+          "name": "Base Hospital- Hambantota",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7",
+          "name_ta": "\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb9\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 20,
+        "hospital_id": 20,
+        "cumulative_local": 136,
+        "cumulative_foreign": 0,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 136,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 20,
+          "name": "Base Hospital - Monaragala",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0ddc\u0db1\u0dbb\u0dcf\u0d9c\u0dbd",
+          "name_ta": "\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bae\u0bcb\u0ba9\u0bb0\u0bbe\u0b95\u0bb2\u0bbe",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 21,
+        "hospital_id": 21,
+        "cumulative_local": 59,
+        "cumulative_foreign": 1,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 60,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 21,
+          "name": "Base Hospital - Welikanda",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dd0\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf",
+          "name_ta": "\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb5\u0bbe\u0bb2\u0bbf\u0b95\u0ba3\u0bcd\u0b9f",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 22,
+        "hospital_id": 22,
+        "cumulative_local": 614,
+        "cumulative_foreign": 3,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 617,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 22,
+          "name": "DGH-Kalutara",
+          "name_si": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dc5\u0dd4\u0dad\u0dbb",
+          "name_ta": "\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 -\u0b95\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 23,
+        "hospital_id": 23,
+        "cumulative_local": 94,
+        "cumulative_foreign": 0,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 94,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 23,
+          "name": "Chest Hospital Welisara",
+          "name_si": "\u0dc5\u0dba \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dd0\u0dbd\u0dd2\u0dc3\u0dbb",
+          "name_ta": "\u0bae\u0bbe\u0bb0\u0bcd\u0baa\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 -\u0bb5\u0bc6\u0bb2\u0bbf\u0b9a\u0bb0\u0bbe",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 24,
+        "hospital_id": 24,
+        "cumulative_local": 16,
+        "cumulative_foreign": 0,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 16,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 24,
+          "name": "Base Hospital Mulleriyawa",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd  - \u0db8\u0dd4\u0dbd\u0dca\u0dbd\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0dc0",
+          "name_ta": "\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc7\u0bb0\u0bbf\u0baf\u0bbe",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 25,
+        "hospital_id": 25,
+        "cumulative_local": 302,
+        "cumulative_foreign": 4,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 306,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 25,
+          "name": "Base Hospital Homagama",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd  - \u0dc4\u0ddd\u0db8\u0dcf\u0d9c\u0db8",
+          "name_ta": "\u0b86\u0ba4\u0bbe\u0bb0 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb9\u0bcb\u0bae\u0bbe\u0b95\u0bae",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 26,
+        "hospital_id": 26,
+        "cumulative_local": 84,
+        "cumulative_foreign": 0,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 84,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 26,
+          "name": "Dr. Nevil Fernando Hospital",
+          "name_si": "\u0db1\u0dd9\u0dc0\u0dd2\u0dbd\u0dca \u0db4\u0dca\u200d\u0dbb\u0db1\u0dcf\u0db1\u0dca\u0daf\u0dd4 \u0dbb\u0ddd\u0dc4\u0dbd",
+          "name_ta": "\u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0bb0\u0bcd \u0ba8\u0bc6\u0bb5\u0bbf\u0bb2\u0bcd \u0baa\u0bc6\u0bb0\u0bcd\u0ba9\u0bbe\u0ba3\u0bcd\u0b9f\u0bcb \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 27,
+        "hospital_id": 27,
+        "cumulative_local": 1308,
+        "cumulative_foreign": 0,
+        "treatment_local": 5,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 1308,
+        "treatment_total": 5,
+        "hospital": {
+          "id": 27,
+          "name": "D. G.H. Chillaw",
+          "name_si": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc4\u0dbd\u0dcf\u0dc0\u0dad",
+          "name_ta": "\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0b9a\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe\u0bb5\u0bcd",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 28,
+        "hospital_id": 28,
+        "cumulative_local": 145,
+        "cumulative_foreign": 2,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 147,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 28,
+          "name": "D.G.H. Matara",
+          "name_si": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dcf\u0dad\u0dbb",
+          "name_ta": "\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bae\u0bbe\u0ba4\u0bbe\u0bb0\u0bbe",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 29,
+        "hospital_id": 29,
+        "cumulative_local": 379,
+        "cumulative_foreign": 0,
+        "treatment_local": 8,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 379,
+        "treatment_total": 8,
+        "hospital": {
+          "id": 29,
+          "name": "K.D.U. Hospital",
+          "name_si": "\u0d9a\u0ddc\u0dad\u0dbd\u0dcf\u0dc0\u0dbd \u0d86\u0dbb\u0d9a\u0dca\u0dc2\u0d9a \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd \u0dbb\u0ddd\u0dc4\u0dbd",
+          "name_ta": "\u0b95\u0bca\u0ba4\u0bcd\u0ba4\u0bb2\u0bbe\u0bb5\u0bc6\u0bb2 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc1 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95 (k.D.U)  \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 30,
+        "hospital_id": 30,
+        "cumulative_local": 130,
+        "cumulative_foreign": 0,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 130,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 30,
+          "name": "D.G.H. Vavunia",
+          "name_si": "\u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db8\u0dc4 \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc0\u0dc0\u0dd4\u0db1\u0dd2\u0dba\u0dcf\u0dc0",
+          "name_ta": "\u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f \u0baa\u0bca\u0ba4\u0bc1 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 - \u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 31,
+        "hospital_id": 31,
+        "cumulative_local": 165,
+        "cumulative_foreign": 0,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 165,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 31,
+          "name": "Base Hospital - Marawila",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dcf\u0dbb\u0dc0\u0dd2\u0dbd",
+          "name_ta": "\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0bae\u0bbe\u0bb1\u0bb5\u0bbf\u0bb2",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 32,
+        "hospital_id": 32,
+        "cumulative_local": 802,
+        "cumulative_foreign": 1,
+        "treatment_local": 6,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 803,
+        "treatment_total": 6,
+        "hospital": {
+          "id": 32,
+          "name": "Teaching Hospital - Sri Jayawadhanapura",
+          "name_si": "\u0daf\u0dc1\u0dd2\u0d9a\u0dca\u0dc2\u0dab \u0dbb\u0ddd\u0dc4\u0dbd - \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0da2\u0dba\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0db4\u0dd4\u0dbb",
+          "name_ta": "\u0baa\u0bcb\u0ba4\u0ba9\u0bbe \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8- \u0bb8\u0bcd\u0bb0\u0bc0 \u0b9c\u0baf\u0bb5\u0bb0\u0bcd\u0ba4\u0bcd\u0ba4\u0ba9\u0baa\u0bc1\u0bb0",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 33,
+        "hospital_id": 33,
+        "cumulative_local": 12,
+        "cumulative_foreign": 0,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 12,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 33,
+          "name": "Base Hospital - Beruwala",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db6\u0dda\u0dbb\u0dd4\u0dc0\u0dbd",
+          "name_ta": "\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0baa\u0bc6\u0bb0\u0bc1\u0bb5\u0bbe\u0bb2\u0bbe",
+          "created_at": "2020-04-11 08:45:06",
+          "updated_at": "2020-04-11 08:45:06",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 34,
+        "hospital_id": 34,
+        "cumulative_local": 3,
+        "cumulative_foreign": 0,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 3,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 34,
+          "name": "Base Hospital \u2013 Kathankudi",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0d9a\u0dcf\u0dad\u0db1\u0dca\u0d9a\u0dd4\u0da9\u0dd2",
+          "name_ta": "\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0b95\u0bbe\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+          "created_at": "2020-04-30 00:00:00",
+          "updated_at": "2020-04-30 00:00:00",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 35,
+        "hospital_id": 35,
+        "cumulative_local": 4,
+        "cumulative_foreign": 0,
+        "treatment_local": 0,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 4,
+        "treatment_total": 0,
+        "hospital": {
+          "id": 35,
+          "name": "Base Hospital \u2013 Minuwangoda",
+          "name_si": "\u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0dbb\u0ddd\u0dc4\u0dbd - \u0db8\u0dd2\u0db1\u0dd4\u0dc0\u0db1\u0dca\u0d9c\u0ddc\u0da9",
+          "name_ta": "\u0ba4\u0bb3 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8 \u2013 \u0bae\u0bbf\u0ba9\u0bc1\u0bb5\u0bbe\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bbe",
+          "created_at": "2020-04-30 00:00:00",
+          "updated_at": "2020-04-30 00:00:00",
+          "deleted_at": null
+        }
+      },
+      {
+        "id": 36,
+        "hospital_id": 36,
+        "cumulative_local": 212,
+        "cumulative_foreign": 0,
+        "treatment_local": 1,
+        "treatment_foreign": 0,
+        "created_at": "2020-06-04 13:49:42",
+        "updated_at": null,
+        "deleted_at": null,
+        "cumulative_total": 212,
+        "treatment_total": 1,
+        "hospital": {
+          "id": 36,
+          "name": "Navy Hospital",
+          "name_si": "\u0db1\u0dcf\u0dc0\u0dd2\u0d9a \u0dc4\u0db8\u0dd4\u0daf\u0dcf \u0dbb\u0ddd\u0dc4\u0dbd",
+          "name_ta": "\u0b95\u0b9f\u0bb1\u0bcd\u0baa\u0b9f\u0bc8 \u0bb5\u0bc8\u0ba4\u0bcd\u0ba4\u0bbf\u0baf\u0b9a\u0bbe\u0bb2\u0bc8",
+          "created_at": "2020-04-30 00:00:00",
+          "updated_at": "2020-04-30 00:00:00",
+          "deleted_at": null
+        }
+      }
+    ]
+  }
+}

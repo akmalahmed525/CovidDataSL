@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About screen Must match the snapshot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#FFFFFF",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "justifyContent": "center",
+        "padding": 24,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 28,
+            "fontWeight": "400",
+            "letterSpacing": 0.355469,
+            "lineHeight": 34,
+          },
+          Object {
+            "fontFamily": "Rubik-Regular",
+            "textAlign": "center",
+          },
+        ]
+      }
+    >
+      Covid-19 Data Visualization Application
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "letterSpacing": -0.408,
+            "lineHeight": 22,
+          },
+          Object {
+            "fontFamily": "Rubik-Light",
+            "textAlign": "center",
+          },
+        ]
+      }
+    />
+    <Text
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 22,
+            "fontWeight": "400",
+            "letterSpacing": 0.34375,
+            "lineHeight": 28,
+          },
+          Object {
+            "fontFamily": "Rubik-Light",
+            "textAlign": "center",
+          },
+        ]
+      }
+    >
+      An open source React Native application developed to interact with Covid-19 data API of Sri Lankan Health Promotion Bureau
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "letterSpacing": -0.408,
+            "lineHeight": 22,
+          },
+          Object {
+            "fontFamily": "Rubik-Light",
+            "textAlign": "center",
+          },
+        ]
+      }
+    />
+    <Text
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "color": "#000000",
+            "fontFamily": "System",
+            "fontSize": 17,
+            "fontWeight": "400",
+            "letterSpacing": -0.408,
+            "lineHeight": 22,
+          },
+          Object {
+            "fontFamily": "Rubik-Regular",
+            "textAlign": "center",
+          },
+          Object {
+            "color": "#0000EE",
+          },
+        ]
+      }
+    >
+      Get the source code
+    </Text>
+  </View>
+</View>
+`;
