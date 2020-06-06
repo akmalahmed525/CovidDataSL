@@ -1,6 +1,6 @@
-name: Testing the JS level code
+name: RN CI
 
-on: pull_request
+on: push
 
 jobs:
   install-and-test:
