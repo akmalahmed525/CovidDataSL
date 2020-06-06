@@ -18,4 +18,4 @@ jobs:
           yarn flow
       - name: Unit test files
         run: |
-          yarn test --ci
+          yarn test --ci --detectOpenHandles --forceExit
