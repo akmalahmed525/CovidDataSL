@@ -1,15 +1,21 @@
-name: RN CI
+name: Github Actions
 
-on: push
+on: [push, pull_request]
 
 jobs:
   install-and-test:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - name: Increase inotify watchers
+        run: |
+          echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
       - name: Install dependencies
         run: |
-          yarn
+          yarn install --frozen-lockfile
       - name: Run lint checks
         run: |
           yarn lint
@@ -19,3 +25,34 @@ jobs:
       - name: Unit test files
         run: |
           yarn test --ci --detectOpenHandles --forceExit
+
+  # Builds android
+  # TODO: Must develop IOS builds as well
+  build-android:
+    needs: unit-tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - name: Increase inotify watchers
+        run: |
+          echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+      - name: Create the .env file
+        run: |
+          cp .env.example .env
+      - name: Install dependencies
+        run: |
+          yarn install --frozen-lockfile
+      - name: Change access permissions to run gradle commands
+        run: |
+          cd android && chmod +x ./gradlew && cd ..
+      - name: Build Android
+        run: |
+          cd android && ./gradlew assembleRelease
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v1
+        with:
+          name: app-release.apk
+          path: android/app/build/outputs/apk/release/
