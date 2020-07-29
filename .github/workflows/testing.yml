@@ -29,7 +29,7 @@ jobs:
   # Builds android
   # TODO: Must develop IOS builds as well
   build-android:
-    needs: unit-tests
+    needs: install-and-test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
