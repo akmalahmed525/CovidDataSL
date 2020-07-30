@@ -6,6 +6,8 @@ describe('Must translate the language', () => {
   });
 
   it('should translate the language - wrong one', () => {
-    expect(t('about.title2')).not.toBe('Covid-19 Data Visualization Application');
+    expect(t('about.title2')).not.toBe(
+      'Covid-19 Data Visualization Application'
+    );
   });
 });
